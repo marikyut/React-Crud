@@ -1,6 +1,5 @@
 import React from 'react';
-import Login from '../src/Login.jsx';
-import Register from '../src/Register.jsx';
+import Login from '..src/Login.jsx';
 
 const App = () => {
   return (

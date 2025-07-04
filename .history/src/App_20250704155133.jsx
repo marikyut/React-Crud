@@ -1,11 +1,10 @@
 import React from 'react';
 import Login from '../src/Login.jsx';
-import Register from '../src/Register.jsx';
 
 const App = () => {
   return (
     <div className ="min-h-screen bg-gray-100 flex items-center justify-center">
-      <Login />
+     <h1>Hello from App</h1>
     </div>
   )
 }
